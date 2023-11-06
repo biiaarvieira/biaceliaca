@@ -1,0 +1,87 @@
+{
+
+
+"Nutribakery": {
+  "classificação": "Parceiro Acelbra",
+  "local": [-15.819030053707445, -47.89508831031263],
+  "observação": ["Asa Sul CLS 407 BL D Loja 08", "Asa Sul"]
+},
+"Pinoli Pizza": {
+  "classificação": "Parceiro Acelbra",
+  "local": [-15.768255848023973, -47.887954279816114],
+  "observação": ["CLN 307, Loja 34", "Asa Norte"]
+},
+"Quitutices - Confeitaria sem glúten" : {
+  "classificação": "Parceiro Acelbra",
+  "local": [-15.827448409563315, -47.92265096684207],
+  "observação": ["CLS 315 loja 33","Asa Sul"]
+},
+"Saucker": {
+  "classificação": "Parceiro Acelbra",
+  "local": [-15.780672098788177, -47.88966119128672],
+  "observação": ["SCRN 702/703 BLOCO H LOJA 01", "Asa Norte"]
+},
+"Supren Verda - Cozinha Vegana":{
+  "classificação": "Parceiro Acelbra",
+  "local": [-15.777022482479019, -47.87793860676978],
+  "observação": ["SCLN 203 Bloco D Loja 53", "Asa Norte"]
+},
+"Tudim Sem Glúten": {
+  "classificação": "Parceiro Acelbra",
+  "local": [-15.681103898276758, -47.834290693304965],
+  "observação": ["SH Boa Vista Condomínio Império dos Nobres Q 1 MC 01 loja 1", "Sobradinho"]
+},
+
+
+"Há Hamburgueria Glúten Free": {
+  "classificação": "Seguro",
+  "local": [-15.79794846989483, -47.92136144911315],
+  "observação": ["CLSW 301 Bloco C, Loja 162", "Sudoeste"]
+},
+"Passos sem Glúten": {
+  "classificação": "Seguro",
+  "local": [-15.834879897044239, -48.03587198411513],
+  "observação": ["Rua 33/34, Blvd. Norte, 1 - loja 26", "Águas Claras"]
+},
+
+
+"Dom Parrillero": {
+  "classificação": "Cozinha compartilhada",
+  "local": [-15.755571591154526, -47.88814689328546],
+  "observação": ["Entrequadra Norte 110/111", "Plaza Norte", "Asa Norte"]
+},
+"Horta Cozinha Criativa": {
+  "classificação": "Cozinha compartilhada",
+  "local": [-15.80133929207535, -47.88449094738337],
+  "observação": ["CLS 202 BL C Loja 04", "Asa Sul"]
+},
+"L'Entrecote de Paris": {
+  "classificação": "Cozinha compartilhada",
+  "local": [-15.804647271652168, -47.885163948051726],
+  "observação": ["Asa Sul Comércio Local Sul 402 Loja 09", "Asa Sul"]
+},
+"Nippon Restaurante":{
+  "classificação": "Cozinha compartilhada",
+  "local": [-15.808573450838477, -47.886082882051205],
+  "observação": ["CLS 403", "Asa Sul"]
+},
+"Outback Iguatemi": {
+  "classificação": "Cozinha compartilhada",
+  "local": [-15.71997437738565, -47.885373768804335],
+  "observação": ["St. de Habitações Individuais Norte CA 4 Loja 21", "Lago Norte"]
+},
+"Peixe na Rede": {
+  "classificação": "Cozinha compartilhada",
+  "local": [-15.755539198616534, -47.88821668413602],
+  "observação": ["Plaza Shopping", "EQN 110/111 LOTE A Ed. Plaza Norte, SHCN", "Asa Norte"]
+},
+
+
+"Oba Hortifruti": {
+  "classificação": "Mercado",
+  "local": [-15.757462356309084, -47.88317687814529],
+  "observação": ["CLN 209 Bl. B loja 19", "Asa Norte"]
+},
+
+
+}
