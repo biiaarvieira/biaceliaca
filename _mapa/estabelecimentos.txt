@@ -50,11 +50,6 @@
   "local": [-15.755571591154526, -47.88814689328546],
   "observação": ["Entrequadra Norte 110/111", "Plaza Norte", "Asa Norte"]
 },
-"Horta Cozinha Criativa": {
-  "classificação": "Cozinha compartilhada",
-  "local": [-15.80133929207535, -47.88449094738337],
-  "observação": ["CLS 202 BL C Loja 04", "Asa Sul"]
-},
 "L'Entrecote de Paris": {
   "classificação": "Cozinha compartilhada",
   "local": [-15.804647271652168, -47.885163948051726],

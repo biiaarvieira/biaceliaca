@@ -35,11 +35,7 @@ if __name__ == "__main__":
         cor, icon, legenda = get_class(
             icones, empresas[empresa]['classificação']
         )
-        content = (
-            f'<b>{empresa}</b>' +
-            f'<br><i>{legenda}</i>' +
-            f'<br><br>{"<br>".join(empresas[empresa]["observação"])}'
-        )
+        
         folium.Marker(
             location=empresas[empresa]['local'],
             icon=folium.Icon(color=cor, icon=icon, prefix="fa"),
