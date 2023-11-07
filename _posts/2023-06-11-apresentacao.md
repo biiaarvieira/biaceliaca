@@ -4,7 +4,7 @@ title:  "Quem sou eu?"
 categories:
 author: bia
 tags:
-image: assets/images/quemsoueu.png
+image: assets/images/quemsoueu.jpg
 description: "Olá, me chamo Bia e criei esse blog para compartilhar um pouco sobre como ter uma vida feliz sem glúten."
 featured: true
 hidden: true
