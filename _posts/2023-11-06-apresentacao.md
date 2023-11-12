@@ -12,8 +12,8 @@ rating:
 ---
 
 Oie!
-
 Eu sou a Beatriz, mas todos me chamam de **Bia** 😁
+
 Tenho 30 anos e fechei o diagnóstico da Doença Celíaca em 11 de março de 2021 - mas o processo de desconfiança começou no final de 2020, quando uma reumatologista notou meu PCR aumentado e resolveu investigar exames antigos e achou um dos exames sorológicos feitos para o diagnóstico da DC feito em março/2017, que estava bastante alterado e foi solicitado por um médico que eu não voltei e o exame acabou se perdendo.
 Com isso ela me orientou a procurar um gastroenterologista para investigar possíveis doenças autoimunes do trato intestinal.
 E a partir daí, fiz os exames, incluindo a biópsia de duodeno (exame ouro para o diagnóstico da DC) e todos deram positivos.
