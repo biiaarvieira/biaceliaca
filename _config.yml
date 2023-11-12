@@ -5,7 +5,7 @@ description: "vida feliz sem glúten"
 logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/logo.jpg'
 baseurl: ''
-google_analytics: 'UA-46278016-1'
+google_analytics: 'G-SEMPWB6480'
 include: ["_pages"]
 permalink: /:title/
 
