@@ -333,6 +333,8 @@ span.post-read-more a:hover {
     font-family: Merriweather;
     font-size: 1.1rem;
     line-height: 1.84;
+    text-align: justify;
+    text-justify: inter-word;
     color: rgba(0, 0, 0, .8);
 }
 
