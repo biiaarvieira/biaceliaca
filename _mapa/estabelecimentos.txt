@@ -154,4 +154,6 @@
   "classificação": "Seguro",
   "local": [-15.833655473641532, -47.95481512698749],
   "observação": ["SHIS QI 5 BL. F Gilberto Salomão, Quiosque", "Lago Sul"]
+},
+
 }
