@@ -78,9 +78,6 @@
   "observação": ["CLN 209 Bl. B loja 19", "Asa Norte"]
 },
 
-
-},
-
 "Senhora Amêndoa": {
   "classificação": "Parceiro Acelbra",
   "local": [-15.737844282289494, -47.896477969072414],
