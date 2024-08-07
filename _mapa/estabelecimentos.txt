@@ -79,4 +79,82 @@
 },
 
 
-}
+},
+
+"Senhora Amêndoa": {
+  "classificação": "Parceiro Acelbra",
+  "local": [-15.737844282289494, -47.896477969072414],
+  "observação": ["CLN 316 Bl. B", "Asa Norte"]
+},
+
+"Paladar Vegano": {
+  "classificação": "Parceiro Acelbra",
+  "local": [-15.770793774172917, -47.8843471987611],
+  "observação": ["CLN 106 Bl. C Loja 38", "Asa Norte"]
+},
+
+"MaxFoods Restaurante": {
+  "classificação": "Parceiro Acelbra",
+  "local": [-15.810210474809411, -47.897106569305905],
+  "observação": ["CLS 105 Bl. B Loja 18", "Asa Sul"]
+},
+
+"Saucker - Águas Claras": {
+  "classificação": "Parceiro Acelbra",
+  "local": [-15.837228700449932, -48.036912511882406],
+  "observação": ["Rua 33 Sul, 5 Loja 12, Residencial Le Club", "Águas Claras"]
+},
+
+"Bálsamo Congelados": {
+  "classificação": "Parceiro Acelbra",
+  "local": [-15.763294176665788, -47.89290951920291],
+  "observação": ["SHCGN 708/709 Bl. G Loja 44", "Asa Norte"]
+},
+
+"Supren Verda": {
+  "classificação": "Parceiro Acelbra",
+  "local": [-15.777053441281556, -47.877868873177505],
+  "observação": ["CLN 203 Bl. D Loja 53", "Asa Norte"]
+},
+
+"Tudo em Grãos": {
+  "classificação": "Mercado",
+  "local": [-15.810206340516034, -47.88919338851867],
+  "observação": ["CLS 204 Bl. C Loja 30", "Asa Sul"]
+},
+
+"Le Petit Macarons Boutique": {
+  "classificação": "Seguro",
+  "local": [-15.720706752275944, -47.8858899173555],
+  "observação": ["Quiosque no 2º Piso, Shopping Iguatemi Brasília", "Lago Norte"]
+},
+
+"Le Petit Macarons Boutique": {
+  "classificação": "Seguro",
+  "local": [-15.833655473641532, -47.95481512698749],
+  "observação": ["Quiosque, Park Shopping", "Guará"]
+},
+
+"Adaggio - Pizzaria, Massa e Doces": {
+  "classificação": "Parceiro Acelbra",
+  "local": [-15.803168428793265, -48.0127271419717],
+  "observação": ["Setor Hab. Vicente Pires, Lote 4C", "Vicente Pires"]
+},
+
+"Dom Parrillero": {
+  "classificação": "Cozinha compartilhada",
+  "local": [-15.755539198616534, -47.88821668413602],
+  "observação": ["Plaza Shopping", "EQN 110/111 LOTE A Ed. Plaza Norte, SHCN", "Asa Norte"]
+},
+
+"Viva Livre": {
+  "classificação": "Mercado",
+  "local": [-15.810206340516034, -47.88919338851867],
+  "observação": ["Cond. Mansões Serranas GB 01 Lote 07/08 Loja 02", "Jardim Botânico"]
+},
+
+"La Belle Vie": {
+  "classificação": "Seguro",
+  "local": [-15.833655473641532, -47.95481512698749],
+  "observação": ["SHIS QI 5 BL. F Gilberto Salomão, Quiosque", "Lago Sul"]
+},
