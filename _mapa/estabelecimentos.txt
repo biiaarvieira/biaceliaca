@@ -29,7 +29,7 @@
 "Tudim Sem Glúten": {
   "classificação": "Parceiro Acelbra",
   "local": [-15.681103898276758, -47.834290693304965],
-  "observação": ["SH Boa Vista Condomínio Império dos Nobres Q 1 MC 01 loja 1", "Sobradinho"]
+  "observação": ["CLN 214 Bloco D - Academia FitPark", "Asa Norte"]
 },
 
 
@@ -154,6 +154,23 @@
   "classificação": "Seguro",
   "local": [-15.833655473641532, -47.95481512698749],
   "observação": ["SHIS QI 5 BL. F Gilberto Salomão, Quiosque", "Lago Sul"]
+},
+
+"Shizen": {
+  "classificação": "Mercado",
+  "local": [-15.810206340516034, -47.88919338851867],
+  "observação": ["CLN 306 Bl. E Lojas 15, 19 e 29", "Asa Norte"]
+},
+
+"Shizen": {
+  "classificação": "Mercado",
+  "local": [-15.810206340516034, -47.88919338851867],
+  "observação": ["SHCN 716 Bl. D Loja 14", "Asa Norte"]
+},
+"Shizen": {
+  "classificação": "Mercado",
+  "local": [-15.810206340516034, -47.88919338851867],
+  "observação": ["CLS 407 Bl. B Loja 14", "Asa Sul"]
 },
 
 }
