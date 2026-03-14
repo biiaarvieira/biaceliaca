@@ -184,4 +184,9 @@
   "classificação": "Cozinha compartilhada",
   "local": [-15.80322886520348, -47.89208181739454],
   "observação": ["CLS 302 Bl. A Loja 4", "Asa Sul"]
+},
+"Gratinado": {
+  "classificação": "Cozinha compartilhada",
+  "local": [-15.760923028298945, -47.89264129040903],
+  "observação": ["SHCGN 709 Bl. F", "Asa Norte"]
 }
