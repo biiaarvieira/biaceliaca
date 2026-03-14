@@ -6,7 +6,7 @@
   "observação": ["CLN 307, Loja 34", "Asa Norte"]
 },
 "Quitutices - Confeitaria sem glúten" : {
-  "classificação": "Parceiro Acelbra",
+  "classificação": "Seguro",
   "local": [-15.827448409563315, -47.92265096684207],
   "observação": ["CLS 315 loja 33","Asa Sul"]
 },
@@ -16,7 +16,7 @@
   "observação": ["SCRN 702/703 BLOCO H LOJA 01", "Asa Norte"]
 },
 "Há Hamburgueria Glúten Free": {
-  "classificação": "Seguro",
+  "classificação": "Parceiro Acelbra",
   "local": [-15.79794846989483, -47.92136144911315],
   "observação": ["CLSW 301 Bloco C, Loja 162", "Sudoeste"]
 },
@@ -24,11 +24,6 @@
   "classificação": "Seguro",
   "local": [-15.800927316312954, -47.92692193261777],
   "observação": ["CLSW 303 Bloco C Loja 74", "Sudoeste"]
-},
-"Dom Parrillero": {
-  "classificação": "Cozinha compartilhada",
-  "local": [-15.755571591154526, -47.88814689328546],
-  "observação": ["Entrequadra Norte 110/111", "Plaza Norte", "Asa Norte"]
 },
 "L'Entrecote de Paris": {
   "classificação": "Cozinha compartilhada",
@@ -45,11 +40,6 @@
   "local": [-15.71997437738565, -47.885373768804335],
   "observação": ["St. de Habitações Individuais Norte CA 4 Loja 21", "Lago Norte"]
 },
-"Peixe na Rede": {
-  "classificação": "Cozinha compartilhada",
-  "local": [-15.755539198616534, -47.88821668413602],
-  "observação": ["Plaza Shopping", "EQN 110/111 LOTE A Ed. Plaza Norte, SHCN", "Asa Norte"]
-},
 "Oba Hortifruti": {
   "classificação": "Mercado",
   "local": [-15.757462356309084, -47.88317687814529],
@@ -59,6 +49,26 @@
   "classificação": "Mercado",
   "local": [-15.768984481649195, -47.88756725473542],
   "observação": ["CLN 306 Bl. D loja 79", "Asa Norte"]
+},
+"Oba Hortifruti": {
+  "classificação": "Mercado",
+  "local": [-15.826159993248652, -47.911018888729984],
+  "observação": ["CLS 212 Bl. A loja 14", "Asa Sul"]
+},
+"Oba Hortifruti": {
+  "classificação": "Mercado",
+  "local": [-15.81015029814908, -47.89790449959059],
+  "observação": ["CLS 105 Bl. C loja 22,26,36", "Asa Sul"]
+},
+"Oba Hortifruti": {
+  "classificação": "Mercado",
+  "local": [-15.809401497231425, -47.889158558132635],
+  "observação": ["CLS 203 Bl. D loja 35", "Asa Sul"]
+},
+"Oba Hortifruti": {
+  "classificação": "Mercado",
+  "local": [-15.797759337483814, -47.92230149581982],
+  "observação": ["CLSW 302", "Sudoeste"]
 },
 "Oba Hortifruti": {
   "classificação": "Mercado",
@@ -75,30 +85,15 @@
   "local": [-15.770793774172917, -47.8843471987611],
   "observação": ["CLN 106 Bl. C Loja 38", "Asa Norte"]
 },
-"Bálsamo Congelados": {
-  "classificação": "Parceiro Acelbra",
-  "local": [-15.763294176665788, -47.89290951920291],
-  "observação": ["SHCGN 708/709 Bl. G Loja 44", "Asa Norte"]
-},
 "Supren Verda": {
   "classificação": "Parceiro Acelbra",
   "local": [-15.777053441281556, -47.877868873177505],
   "observação": ["CLN 203 Bl. D Loja 53", "Asa Norte"]
 },
-"Tudo em Grãos": {
-  "classificação": "Mercado",
-  "local": [-15.810206340516034, -47.88919338851867],
-  "observação": ["CLS 204 Bl. C Loja 30", "Asa Sul"]
-},
 "Le Petit Macarons Boutique": {
   "classificação": "Seguro",
   "local": [-15.720706752275944, -47.8858899173555],
   "observação": ["Quiosque no 2º Piso, Shopping Iguatemi Brasília", "Lago Norte"]
-},
-"Le Petit Macarons Boutique": {
-  "classificação": "Seguro",
-  "local": [-15.833655473641532, -47.95481512698749],
-  "observação": ["Quiosque, Park Shopping", "Guará"]
 },
 "Adaggio - Pizzaria, Massa e Doces": {
   "classificação": "Parceiro Acelbra",
@@ -114,11 +109,6 @@
   "classificação": "Mercado",
   "local": [-15.810206340516034, -47.88919338851867],
   "observação": ["Cond. Mansões Serranas GB 01 Lote 07/08 Loja 02", "Jardim Botânico"]
-},
-"La Belle Vie": {
-  "classificação": "Seguro",
-  "local": [-15.833655473641532, -47.95481512698749],
-  "observação": ["SHIS QI 5 BL. F Gilberto Salomão, Quiosque", "Lago Sul"]
 },
 "Shizen": {
   "classificação": "Mercado",
@@ -138,7 +128,7 @@
 "Eleve Mercado Saudável": {
   "classificação": "Mercado",
   "local": [-15.764165812453335, -47.893298633475055],
-  "observação": ["SHCGN 708/709 Bloco D", "Asa Norte"]
+  "observação": ["SHCGN 708/709 B. D", "Asa Norte"]
 },
 "Vieira Healthy Foods": {
   "classificação": "Seguro",
@@ -146,18 +136,52 @@
   "observação": ["SQNW 303 LT LRS", "Noroeste"]
 },
 "Lalow": {
-  "classificação": "Seguro",
+  "classificação": "Parceiro Acelbra",
   "local": [-15.796650653800272, -47.89442356145371],
-  "observação": ["SRTVS 701 Conj. D Bloco A Lj. 35 Centro Empresarial Brasília", "Setor de Rádio e TV Sul"]
+  "observação": ["SRTVS 701 Conj. D Bl. A Lj. 35 Centro Empresarial Brasília", "Setor de Rádio e TV Sul"]
 },
 "Fit de Fato Pizzaria": {
   "classificação": "Parceiro Acelbra",
   "local": [-15.827450225107716, -47.90609781845037],
-  "observação": ["CLS 411 Bloco D", "Asa Sul"]
+  "observação": ["CLS 411 Bl. D", "Asa Sul"]
 },
 "Casa Rabelo": {
   "classificação": "Seguro",
   "local": [-15.783334924845063, -47.87744208736156],
-  "observação": ["CLN 202 Bloco D Loja 39", "Asa Norte"]
+  "observação": ["CLN 202 Bl. D Loja 39", "Asa Norte"]
 },
+"Flor D'Cacau": {
+  "classificação": "Parceiro Acelbra",
+  "local": [-15.849980929057416, -47.97629027691371],
+  "observação": ["Guará II QE 40 Loja 02", "Guará II"]
+},
+"NoGlu Café": {
+  "classificação": "Parceiro Acelbra",
+  "local": [-15.800897752274203, -47.925090702052366],
+  "observação": ["CLSW 103 Loja 33 Subsolo", "Sudoeste"]
+},
+"Produtos da Terra": {
+  "classificação": "Mercado",
+  "local": [-15.839282155376145, -48.051940888558235],
+  "observação": ["Setor B Sul CSB 7 05 Loja 15", "Taguatinga Sul"]
+},
+"Mercado Malunga": {
+  "classificação": "Mercado",
+  "local": [-15.743955889914306, -47.89579468856004],
+  "observação": ["CLN 315 Bl. E Loja 4", "Asa Norte"]
+},
+"Mercado Malunga": {
+  "classificação": "Mercado",
+  "local": [-15.810110822753275, -47.89794595022579],
+  "observação": ["CLS 105 Bl. D S/N", "Asa Sul"]
+},
+"Mercado Malunga": {
+  "classificação": "Mercado",
+  "local": [-15.801688950091139, -47.927887270757516],
+  "observação": ["CLSW 104 Bl. A Loja 19", "Sudoeste"]
+},
+"Cantina da Massa": {
+  "classificação": "Cozinha compartilhada",
+  "local": [-15.80322886520348, -47.89208181739454],
+  "observação": ["CLS 302 Bl. A Loja 4", "Asa Sul"]
 }
