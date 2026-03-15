@@ -189,4 +189,5 @@
   "classificação": "Cozinha compartilhada",
   "local": [-15.760923028298945, -47.89264129040903],
   "observação": ["SHCGN 709 Bl. F", "Asa Norte"]
+},
 }
